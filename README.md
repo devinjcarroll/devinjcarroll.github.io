@@ -1,2 +1,2 @@
 # devinjcarroll.github.io
-Personal Website - Take 1
+Personal Website using Github
